@@ -2,7 +2,7 @@
 
 ## Requirements
 
-in order to install the project node.js and npm must be installed. For more information about how to install them refer to [official nodejs website](www.nodejs.com).
+in order to install the project node.js and npm must be installed. For more information about how to install them refer to [official nodejs website](http://www.nodejs.org).
 
 ## Install Packages
 
