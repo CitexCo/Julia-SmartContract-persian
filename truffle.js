@@ -1,6 +1,6 @@
 require("babel-register");
 require("babel-polyfill");
-// ganache-cli --mnemonic "copy obey episode awake damp vacant protect hold wish primary travel shy" --verbose --networkId=3 --gasLimit=80000000000 --gasPrice=2000
+const config = require("config")
 
 var HDWalletProvider = require("truffle-hdwallet-provider");
 
@@ -15,18 +15,18 @@ module.exports = {
     development: {
       host: "localhost",
       port: 8545,
-      //   gas: 800000000,
-      gasPrice: 1, // Specified in Wei
-      network_id: "*" // Match any network id
+        gas: 800000000,
+      gasPrice: 1,
+      network_id: "*"
     },
     ropsten: {
       provider: new HDWalletProvider(
-        "",
+        config.get('ropsten_passphrase'),
         "https://ropsten.infura.io/"
       ),
       network_id: "3",
       gas: 7990000,
-      gasPrice: 22000000000 // Specified in Wei
+      gasPrice: 22000000000
     },
     coverage: {
       host: "localhost",
@@ -37,21 +37,21 @@ module.exports = {
     },
     rinkeby: {
       provider: new HDWalletProvider(
-        "",
+        config.get('rinkeby_passphrase'),
         "https://rinkeby.infura.io/"
       ),
       network_id: "4",
       gas: 7200000,
-      gasPrice: 22000000000 // Specified in Wei
+      gasPrice: 22000000000
     },
-    // production: {
-    //   provider: new HDWalletProvider(
-    //     "",
-    //     "https://mainnet.infura.io/"
-    //   ),
-    //   network_id: "1",
-    //   gas: 7990000,
-    //   gasPrice: 6000000000
-    // }
+    production: {
+      provider: new HDWalletProvider(
+        config.get('mainnet_passphrase'),
+        "https://mainnet.infura.io/"
+      ),
+      network_id: "1",
+      gas: 7990000,
+      gasPrice: 6000000000
+    }
   }
 };
