@@ -21,7 +21,7 @@ module.exports = {
     },
     ropsten: {
       provider: new HDWalletProvider(
-        "neglect river keep provide spoon trick over dolphin whale heavy pizza office",
+        "",
         "https://ropsten.infura.io/"
       ),
       network_id: "3",
@@ -37,7 +37,7 @@ module.exports = {
     },
     rinkeby: {
       provider: new HDWalletProvider(
-        "neglect river keep provide spoon trick over dolphin whale heavy pizza office",
+        "",
         "https://rinkeby.infura.io/"
       ),
       network_id: "4",
