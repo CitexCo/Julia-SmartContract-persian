@@ -2,6 +2,7 @@
   "name": "truecoin",
   "version": "1.0.0",
   "description": "",
+  "author": "github.com/hnamzian",
   "main": "truffle.js",
   "directories": {
     "test": "test"

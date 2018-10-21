@@ -10,7 +10,10 @@ require("./startup/config.js")();
 require("./startup/db.js")();
 let server = require("./startup/server")(app);
 
-const web3 = require("./network/web3")
+const w3 = require("./network/web3")
+const web3 = new w3()
+web3.isConnected()
+
 // require("./events/token").syncPastEvents();
 
 app.use(express.static(path.join(__dirname, "../dist/transfer")));

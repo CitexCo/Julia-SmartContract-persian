@@ -163,3 +163,84 @@
 {"timestamp":"2018-10-18T10:16:25.001Z", "level":"error", "message":"Error: Returned values aren't valid, did it run Out of Gas?", "stack":""}
 {"timestamp":"2018-10-18T10:17:16.433Z", "level":"error", "message":"missing path", "stack":""}
 {"timestamp":"2018-10-18T10:17:17.815Z", "level":"error", "message":"missing path", "stack":""}
+{"timestamp":"2018-10-19T07:16:31.067Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:16:33.276Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:16:36.340Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-19T07:16:39.293Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-19T07:16:54.855Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:16:59.371Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:17:03.497Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:17:05.980Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:17:08.993Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-19T07:17:11.776Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-19T07:17:15.461Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-19T07:17:28.623Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-19T07:18:16.949Z", "level":"error", "message":"providerUrl is not defined", "stack":""}
+{"timestamp":"2018-10-20T06:19:14.071Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:19:26.374Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:29:42.063Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:29:48.430Z", "level":"error", "message":"w3 is not defined", "stack":""}
+{"timestamp":"2018-10-20T06:29:53.105Z", "level":"error", "message":"Unexpected token .", "stack":""}
+{"timestamp":"2018-10-20T06:29:55.384Z", "level":"error", "message":"Unexpected identifier", "stack":""}
+{"timestamp":"2018-10-20T06:30:04.567Z", "level":"error", "message":"Unexpected identifier", "stack":""}
+{"timestamp":"2018-10-20T06:30:05.941Z", "level":"error", "message":"Invalid or unexpected token", "stack":""}
+{"timestamp":"2018-10-20T06:30:06.895Z", "level":"error", "message":"Unexpected identifier", "stack":""}
+{"timestamp":"2018-10-20T06:30:10.761Z", "level":"error", "message":"Unexpected token .", "stack":""}
+{"timestamp":"2018-10-20T06:30:12.418Z", "level":"error", "message":"Unexpected identifier", "stack":""}
+{"timestamp":"2018-10-20T06:30:17.037Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:30:35.373Z", "level":"error", "message":"Identifier 'web3' has already been declared", "stack":""}
+{"timestamp":"2018-10-20T06:30:42.968Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:30:46.219Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:00.698Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:02.466Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:05.427Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:31:11.581Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:31:19.122Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:21.113Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:22.034Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:31:31.499Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:40.985Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:31:43.003Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:31:50.750Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:32:03.855Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:09.327Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:14.316Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:16.905Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:19.598Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:32:23.448Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:25.325Z", "level":"error", "message":"Unexpected token }", "stack":""}
+{"timestamp":"2018-10-20T06:32:34.507Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:41.316Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:43.940Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:32:50.105Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:33:11.539Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:33:15.887Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:34:09.489Z", "level":"error", "message":"w3.Connect is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:35:01.063Z", "level":"error", "message":"w3.Connect is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:35:15.290Z", "level":"error", "message":"w3.Connect is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:35:18.271Z", "level":"error", "message":"w3.Connect is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:36:06.142Z", "level":"error", "message":"w3.isConnect is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:36:10.209Z", "level":"error", "message":"w3.isConnected is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:36:22.990Z", "level":"error", "message":"w3.isConnected is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:36:41.671Z", "level":"error", "message":"w3.isConnected is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:38:15.637Z", "level":"error", "message":"w3.isConnected is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:39:51.159Z", "level":"error", "message":"w3.isConnected is not a function", "stack":""}
+{"timestamp":"2018-10-20T06:40:26.618Z", "level":"error", "message":"c is not defined", "stack":""}
+{"timestamp":"2018-10-20T06:40:40.324Z", "level":"error", "message":"Cannot read property 'use' of undefined", "stack":""}
+{"timestamp":"2018-10-20T06:40:42.554Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T07:03:27.906Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T07:04:47.041Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:07.711Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:11.066Z", "level":"error", "message":"Cannot read property 'net' of undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:24.455Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:29.668Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:31.930Z", "level":"error", "message":"Cannot read property 'web3' of undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:33.517Z", "level":"error", "message":"undefined", "stack":""}
+{"timestamp":"2018-10-20T07:05:35.830Z", "level":"error", "message":"Unexpected token .", "stack":""}
+{"timestamp":"2018-10-20T08:01:58.509Z", "level":"error", "message":"Unexpected token async", "stack":""}
+{"timestamp":"2018-10-20T08:02:08.122Z", "level":"error", "message":"Unexpected token function", "stack":""}
+{"timestamp":"2018-10-20T08:02:28.790Z", "level":"error", "message":"Unexpected token function", "stack":""}
+{"timestamp":"2018-10-20T08:02:29.977Z", "level":"error", "message":"Unexpected token function", "stack":""}
+{"timestamp":"2018-10-20T08:03:14.835Z", "level":"error", "message":"Unexpected token this", "stack":""}
+{"timestamp":"2018-10-20T08:03:36.947Z", "level":"error", "message":"Missing initializer in const declaration", "stack":""}
+{"timestamp":"2018-10-20T08:03:46.799Z", "level":"error", "message":"Missing initializer in const declaration", "stack":""}
