@@ -8,10 +8,9 @@
     "test": "test"
   },
   "scripts": {
-    "compile": "truffle compile",
+    "compile": "truffle.js compile",
     "deploy": "truffle migrate --network ropsten --reset"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
