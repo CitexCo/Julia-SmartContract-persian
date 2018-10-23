@@ -1,5 +1,3 @@
 {
-    "ropsten_passphrase": "",
-    "rinkeby_passphrase": "",
-    "mainnet_passphrase": ""
+    "passphrase": ""
 }

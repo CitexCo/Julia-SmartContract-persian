@@ -21,7 +21,8 @@ module.exports = {
     },
     ropsten: {
       provider: new HDWalletProvider(
-        config.get('ropsten_passphrase'),
+        // "neglect river keep provide spoon trick over dolphin whale heavy pizza office",
+        config.get('passphrase'),
         "https://ropsten.infura.io/"
       ),
       network_id: "3",
@@ -37,7 +38,7 @@ module.exports = {
     },
     rinkeby: {
       provider: new HDWalletProvider(
-        config.get('rinkeby_passphrase'),
+        config.get('passphrase'),
         "https://rinkeby.infura.io/"
       ),
       network_id: "4",
@@ -46,7 +47,7 @@ module.exports = {
     },
     production: {
       provider: new HDWalletProvider(
-        config.get('mainnet_passphrase'),
+        config.get('passphrase'),
         "https://mainnet.infura.io/"
       ),
       network_id: "1",
