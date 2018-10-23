@@ -22,7 +22,6 @@ module.exports = {
     },
     ropsten: {
       provider: new HDWalletProvider(
-        // "neglect river keep provide spoon trick over dolphin whale heavy pizza office",
         config.get('passphrase'),
         "https://ropsten.infura.io/"
       ),
