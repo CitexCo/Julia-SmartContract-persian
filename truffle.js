@@ -1,8 +1,9 @@
 require("babel-register");
 require("babel-polyfill");
-const config = require("config")
-
 var HDWalletProvider = require("truffle-hdwallet-provider");
+
+process.env.NODE_CONFIG_DIR = "./config"
+const config = require("config")
 
 module.exports = {
   solc: {
